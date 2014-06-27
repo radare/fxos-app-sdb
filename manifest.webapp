@@ -1,5 +1,5 @@
 {
-  "name": "rax2",
+  "name": "sdb",
   "launch_path": "/index.html",
   "description": "Sdb.JS simple database shell",
   "default_locale": "en",
