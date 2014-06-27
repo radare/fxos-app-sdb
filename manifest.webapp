@@ -1,0 +1,20 @@
+{
+  "name": "rax2",
+  "launch_path": "/index.html",
+  "description": "Sdb.JS simple database shell",
+  "default_locale": "en",
+  "version": "0.9.0",
+  "developer": {
+    "name": "pancake",
+    "url": "http://github.com/radare/sdb/"
+  },
+  "icons": {
+    "32": "/img/icon32.png",
+    "60": "/img/icon60.png",
+    "64": "/img/icon64.png",
+    "90": "/img/icon90.png",
+    "120": "/img/icon120.png",
+    "128": "/img/icon128.png",
+    "256": "/img/icon256.png"
+  }
+}
